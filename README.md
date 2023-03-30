@@ -6,3 +6,5 @@ This is a simple to-do list web app that lets you add tasks, mark them as comple
 ### Getting Started
 To use this web app, simply open the `index.html` file in your web browser. The app will load and you can start adding tasks to your to-do list.
 
+###Understanding the Code
+The code for this web app is split into two files: `index.html` and `pandascript.js.`
